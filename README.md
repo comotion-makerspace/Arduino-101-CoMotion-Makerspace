@@ -75,7 +75,7 @@ These examples include code that allows the Arduino to talk to Processing sketch
 - [String Start With Ends With](https://www.arduino.cc/en/Tutorial/StringStartsWithEndsWith): Check which characters/substrings a given string starts or ends with.
 - [String Substring](https://www.arduino.cc/en/Tutorial/StringSubstring): Look for "phrases" within a given string.
 - [String To Int](https://www.arduino.cc/en/Tutorial/StringToInt): Allows you to convert a String to an integer number.
-9. USB
+#### 9. USB
 The Keyboard and Mouse examples are unique to the Leonardo, Micro and Due. They demonstrate the use of libraries that are unique to the board.
 - [Keyboard Logout](https://www.arduino.cc/en/Tutorial/KeyboardLogout): Logs out the current user with key commands.
 - [Keyboard Message](https://www.arduino.cc/en/Tutorial/KeyboardMessage): Sends a text string when a button is pressed.
