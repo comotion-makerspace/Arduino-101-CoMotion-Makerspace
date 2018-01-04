@@ -2,7 +2,7 @@
 [CoMotion Makerspace](https://comotion.uw.edu/what-we-do/makerspace/) Arduino 101 Workshop
 
 > 
-> Please go through the projects in the folder before going through other projects introduced below. The projects in the folder will give you an basic idea about Serial Monitor, Digital/Analog I/O, basic electronics, basic Arduino programming (For loop, Array, If-Condition.
+> Please go through the projects in the folder before going through other projects introduced below. The projects in the folder will give you an basic idea about Serial Monitor, Digital/Analog I/O, basic electronics, basic Arduino programming (For loop, Array, If-Condition.)
 > ---
 > In each project, there is a project instruction guide and the Arduino code. Just download the whole file folder, open the Arduino .ino files and run the code to learn how Arduino works.
 > 
