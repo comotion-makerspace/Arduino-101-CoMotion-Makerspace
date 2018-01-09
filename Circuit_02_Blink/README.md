@@ -1,4 +1,4 @@
-# 1 – Blink an LED without breadboard
+# 2 – Blink an LED 
 This project is identical to project #1 except that we will be building it on a breadboard.  Once complete, the LED should turn on for a second and then off for a second in a loop.
 ## Parts Needed
 - (1) Arduino Uno
