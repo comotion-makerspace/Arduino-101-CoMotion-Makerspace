@@ -1,4 +1,7 @@
 # 2 – Blink an LED 
+
+## [Online Simulator](https://www.tinkercad.com/things/7QBN9zjXkQV)
+
 This project is identical to project #1 except that we will be building it on a breadboard.  Once complete, the LED should turn on for a second and then off for a second in a loop.
 ## Parts Needed
 - (1) Arduino Uno
