@@ -1,4 +1,8 @@
 # 4 – Potentiometer
+
+## [Online Simulator](https://www.tinkercad.com/things/b7klg1bY0uT)
+
+
 Using a potentiometer, you will be able to control the resistance of an LED.  Turning the knob will increase and decrease the frequency the LED blinks.
 ## Parts Needed
 - (1) Arduino Uno
