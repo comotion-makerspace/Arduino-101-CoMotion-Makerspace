@@ -41,8 +41,8 @@ void setup()
 void loop()
 {
   lightLevel = analogRead(sensorPin);  // reads the voltage on the sensorPin
-  Serial.print(lightLevel);
-  autoRange();  // autoRanges the min / max values you see in your room.
+ // Serial.print(lightLevel);
+  //autoRange();  // autoRanges the min / max values you see in your room.
 
   calibratedlightLevel = map(lightLevel, 0, 1023, 0, 255);  // scale the lightLevel from 0 - 1023 range to 0 - 255 range.
                                                   // the map() function applies a linear scale / offset.
