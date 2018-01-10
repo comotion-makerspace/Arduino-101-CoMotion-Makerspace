@@ -1,5 +1,5 @@
 # 7 – Bar Graph
-
+## [Online Simulator](https://www.tinkercad.com/things/aivbl5BClvi)
 Using a potentiometer, you can control a series of LEDs in a row.  Turning the potentiometer knob will turn on or off more of the LEDs.
 
 ## Parts Needed
